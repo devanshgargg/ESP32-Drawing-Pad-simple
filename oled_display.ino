@@ -262,7 +262,7 @@ const char INDEX_HTML[] PROGMEM = R"HTMLPAGE(
       <span><i></i>SDA</span>
       <span><i></i>SCL</span>
     </div>
-    <div class="label-tag">live mirror &mdash; tech by nandhu</div>
+    <div class="label-tag">live mirror &mdash; DEVANSH</div>
   </div>
 
   <div class="controls">
