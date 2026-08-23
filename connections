@@ -1,0 +1,17 @@
+## Connections for ESP8266
+
+| OLED | ESP8266 | DESCRIPTIONS |
+|------|----------|------------- |
+| VCC  | 3.3V     | POWER SUPPLY |
+| GND  | GND      | GROUND |
+| SDA  | D2 (GPIO4) | I2C DATA |
+| SCL  | D1 (GPIO5) |I2C CLOCK |
+
+## Connections For ESP32
+
+| OLED | ESP32 | DESCRIPTIONS |
+|------|----------|------------- |
+| VCC  | 3.3V     | POWER SUPPLY |
+| GND  | GND      | GROUND |
+| SDA  | D21 (GPIO21) | I2C DATA |
+| SCL  | D22 (GPIO22) |I2C CLOCK |
